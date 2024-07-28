@@ -11,11 +11,11 @@ You need a resume that you can update and share at any given moment. On top of t
 
 #### This tool provide an easy and efficient way to create your online resume website within 10 minutes without any coding
 
-### How it Works [Watch Video](https://youtu.be/HMUmI9kfSDc)
+### How it Works [Watch Video]()
 
-🚀**Try it out:** [Live Demo](https://opbuilder.herokuapp.com/)
+🚀**Try it out:** [Live Demo]()
 
-- [Live Demo](https://opbuilder.herokuapp.com/)
+- [Live Demo]()
 - [Report Bug](https://github.com/binayaginesh/Resume2Site.git/issues/new/choose)
 - [Request Feature](https://github.com/binayaginesh/Resume2Site.git/issues/new/choose)
 
