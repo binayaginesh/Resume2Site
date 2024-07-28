@@ -16,8 +16,8 @@ You need a resume that you can update and share at any given moment. On top of t
 🚀**Try it out:** [Live Demo](https://opbuilder.herokuapp.com/)
 
 - [Live Demo](https://opbuilder.herokuapp.com/)
-- [Report Bug](https://github.com/mjmaurya/resume-website-builder/issues/new/choose)
-- [Request Feature](https://github.com/mjmaurya/resume-website-builder/issues/new/choose)
+- [Report Bug](https://github.com/binayaginesh/Resume2Site.git/issues/new/choose)
+- [Request Feature](https://github.com/binayaginesh/Resume2Site.git/issues/new/choose)
 
 ## Features
 
@@ -32,7 +32,7 @@ You need a resume that you can update and share at any given moment. On top of t
 ### Installation
 1. Clone the repository
 
-```git clone https://github.com/mjmaurya/resume-website-builder.git```
+```git clone https://github.com/binayaginesh/Resume2Site.git.git```
 
 ```cd resume-website-builder```
 
