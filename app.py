@@ -193,7 +193,7 @@ def contactUs():
 
         message="<h4>"+name+"</h4><br><p>"+message+"</p>"
         msg = Message(subject, sender = email,
-            recipients = ['manojbce@outlook.com'],
+            recipients = ['HackZealbce@outlook.com'],
             body= message
         )  
         if(mail.send(msg)):
