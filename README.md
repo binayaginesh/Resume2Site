@@ -1,19 +1,10 @@
 # resume-website-builder
 
 You need a resume that you can update and share at any given moment. On top of that, potential employers should also be able to find you online with a quick search of your name. Having a well-designed CV website that conveys your personality sends a clear message to recruiters that you are serious about your career.
-![](static\Image\sakura.png)
-
-
 
 #### This tool provide an easy and efficient way to create your online resume website within 10 minutes without any coding
 
-### How it Works [Watch Video]()
 
-🚀**Try it out:** [Live Demo]()
-
-- [Live Demo]()
-- [Report Bug](https://github.com/binayaginesh/Resume2Site.git/issues/new/choose)
-- [Request Feature](https://github.com/binayaginesh/Resume2Site.git/issues/new/choose)
 
 ## Features
 
@@ -23,7 +14,6 @@ You need a resume that you can update and share at any given moment. On top of t
 - Click on ```Show/Hide Code``` Button and copy your website code by clicking on ```Click to copy``` button
 
 
-![supreme](static\Image\sakura.png)
 
 ### Installation
 1. Clone the repository
