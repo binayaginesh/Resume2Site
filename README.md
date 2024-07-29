@@ -4,7 +4,8 @@ You need a resume that you can update and share at any given moment. On top of t
 
 #### This tool provide an easy and efficient way to create your online resume website within 10 minutes without any coding
 
-
+## DEMO VIDEO 
+[Watch the demo video](https://drive.google.com/file/d/1EDDvb5tpA1j-1bGxWdX0zCrPxHxcACck/view?usp=sharing)
 
 ## Features
 
